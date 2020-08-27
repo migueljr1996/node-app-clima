@@ -1,0 +1,6 @@
+##Curso node js - Aplicacion del clima
+
+##Ejemplo para obtener datos : 
+```
+node app -d "New york"
+```
